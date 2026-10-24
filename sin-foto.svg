@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Propiedad sin fotos disponibles">
+  <!-- Placeholder de las publicaciones que el CRM no trae con fotos.
+       Usa la paleta Horizonte y la línea de horizonte del logo. -->
+  <rect width="800" height="600" fill="#dce1db" />
+  <polyline
+    points="0,392 220,392 287,320 327,369 353,346 393,392 800,392"
+    fill="none"
+    stroke="#6e7a74"
+    stroke-width="2"
+  />
+  <text
+    x="400"
+    y="452"
+    text-anchor="middle"
+    fill="#6e7a74"
+    font-family="Archivo, ui-sans-serif, system-ui, sans-serif"
+    font-size="26"
+    font-weight="700"
+    letter-spacing="6"
+  >SIN FOTOS</text>
+</svg>
